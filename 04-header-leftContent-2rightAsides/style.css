@@ -1,0 +1,8 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 4	*/				
+.Layout4_1{ width:60%; background-color:Red;  height:400px; float:left;}						
+.Layout4_2{ width:20%; background-color:Blue; float:left; height:400px; }						
+.Layout4_3{ width:20%; background-color:Green; float:left; height:400px; }						
+.Layout4_header{ background-color:Yellow; width:100%; height:100px;}						

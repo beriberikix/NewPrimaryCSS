@@ -1,0 +1,10 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 20	*/										
+.Layout20_1{ width:33.3%; background-color:Red;  height:200px; float:left;}						
+.Layout20_2{ width:33.3%; background-color:Blue; float:left; height:200px; }						
+.Layout20_3{ width:33.3%; background-color:Green; float:left; height:200px; }						
+.Layout20_4{ width:50%; background-color:purple; float:left; height:400px; }						
+.Layout20_5{ width:50%; background-color:Orange; float:left; height:400px; }						
+.Layout20_header{ background-color:Yellow; width:100%; height:100px;}						

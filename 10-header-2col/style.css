@@ -1,0 +1,7 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 10	*/				
+.Layout10_1{ width:50%; background-color:Red;  height:400px; float:left;}						
+.Layout10_2{ width:50%; background-color:Blue; float:left; height:400px; }						
+.Layout10_header{ background-color:Yellow; width:100%; height:100px;}						

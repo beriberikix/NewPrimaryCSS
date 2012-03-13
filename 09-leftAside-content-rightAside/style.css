@@ -1,0 +1,8 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+	
+/*	Layout 9	*/				
+.Layout9_1{ width:20%; background-color:Red;  height:800px; float:left;}						
+.Layout9_2{ width:60%; background-color:Blue; float:left; height:800px; }						
+.Layout9_3{ width:20%; background-color:Green; float:left; height:800px; }						
+.Layout9_header{ background-color:Yellow; width:0%; height:0px;}						

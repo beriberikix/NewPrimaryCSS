@@ -1,0 +1,7 @@
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 19	*/				
+.Layout19_1{ width:100%; background-color:Red;  height:200px; float:left;}						
+.Layout19_2{ width:50%; background-color:Blue; float:left; height:600px; }						
+.Layout19_3{ width:50%; background-color:purple; float:left; height:600px; }						
+.Layout19_header{ background-color:Yellow; width:100%; height:100px;}						

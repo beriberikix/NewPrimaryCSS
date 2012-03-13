@@ -1,0 +1,9 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 16	*/				
+.Layout16_1{ width:100%; background-color:Red;  height:200px; float:left;}						
+.Layout16_2{ width:33.3%; background-color:Blue; float:left; height:600px; }						
+.Layout16_3{ width:33.3%; background-color:Green; float:left; height:600px; }						
+.Layout16_4{ width:33.3%; background-color:purple; float:left; height:600px; }						
+.Layout16_header{ background-color:Yellow; width:100%; height:100px;}						

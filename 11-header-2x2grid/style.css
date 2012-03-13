@@ -1,0 +1,9 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 11	*/				
+.Layout11_1{ width:50%; background-color:Red;  height:400px; float:left;}						
+.Layout11_2{ width:50%; background-color:Blue; float:left; height:400px; }						
+.Layout11_3{ width:50%; background-color:Green; float:left; height:400px; }						
+.Layout11_4{ width:50%; background-color:Orange; float:left; height:400px; }						
+.Layout11_header{ background-color:Yellow; width:100%; height:100px;}						

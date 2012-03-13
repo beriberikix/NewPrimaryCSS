@@ -1,0 +1,8 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 14	*/				
+.Layout14_1{ width:100%; background-color:Red;  height:200px; float:left;}						
+.Layout14_2{ width:100%; background-color:Blue; float:left; height:600px; }						
+.Layout14_3{ width:100%; background-color:Green; float:left; height:100px; }						
+.Layout14_header{ background-color:Yellow; width:100%; height:100px;}						

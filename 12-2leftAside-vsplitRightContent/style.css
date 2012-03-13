@@ -1,0 +1,9 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 12	*/				
+.Layout12_1{ width:25%; background-color:Red;  height:800px; float:left;}						
+.Layout12_2{ width:25%; background-color:Blue; float:left; height:800px; }						
+.Layout12_3{ width:50%; background-color:Green; float:left; height:400px; }						
+.Layout12_4{ width:50%; background-color:Orange; float:left; height:400px; }						
+.Layout12_header{ background-color:Yellow; width:100%; height:100px;}						

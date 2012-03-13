@@ -1,0 +1,9 @@
+
+.mainbody{  margin-left: auto;margin-right: auto; width:960px}
+
+/*	Layout 17	*/				
+.Layout17_1{ width:33.3%; background-color:Red;  height:200px; float:left;}						
+.Layout17_2{ width:33.3%; background-color:Blue; float:left; height:200px; }						
+.Layout17_3{ width:33.3%; background-color:Green; float:left; height:200px; }						
+.Layout17_4{ width:100%; background-color:purple; float:left; height:400px; }						
+.Layout17_header{ background-color:Yellow; width:100%; height:100px;}						
